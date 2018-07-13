@@ -1,4 +1,4 @@
-package com;
+package com.basic_class_01;
 
 /**
  * 逆序对问题，采用归并排序，降序排列
